@@ -1,0 +1,19 @@
+{
+  "name": "hello-github-actions",
+  "version": "1.0.0",
+  "description": "This course will walk you through writing your first action and using it with a workflow file.",
+  "main": "index.js",
+  "scripts": {
+    "hello": "node hello-world.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eidietrich/hello-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eidietrich/hello-github-actions/issues"
+  },
+  "homepage": "https://github.com/eidietrich/hello-github-actions#readme"
+}
